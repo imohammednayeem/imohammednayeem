@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imohammednayeem
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently working into React JS
 - 💞️ I’m looking to collaborate on Web development
 - 📫 Reach me at nayeem.gmit@gmail.com
 
